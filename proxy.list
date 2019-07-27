@@ -94,7 +94,7 @@ DOMAIN-SUFFIX,line-scdn.net,force-remote-dns
 DOMAIN-SUFFIX,naver.jp,force-remote-dns
 
 # >> Telegram
-DMOAIN-KEYWORD,telegram,force-remote-dns
+DOMAIN-KEYWORD,telegram,force-remote-dns
 DOMAIN-SUFFIX,telegra.ph,force-remote-dns
 IP-CIDR,91.108.4.0/22,no-resolve
 IP-CIDR,91.108.8.0/22,no-resolve
