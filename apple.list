@@ -9,10 +9,10 @@ DOMAIN,streamingaudio.itunes.apple.com
 
 # >> Apple
 DOMAIN,gspe1-ssl.ls.apple.com
-
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,crashlytics.com
