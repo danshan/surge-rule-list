@@ -2,5 +2,9 @@
 ## Oculus Quest 2
 SRC-IP,192.168.2.114
 
-# javbus
+# sites
+## javbus
 DOMAIN-SUFFIX,forum.javcdn.pw
+
+## linkedin
+DOMAIN-KEYWORD,linkedin
