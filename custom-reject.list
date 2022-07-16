@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,jpush.io
 DOMAIN-SUFFIX,sdk.e.qq.com
 DOMAIN-SUFFIX,qzs.qq.com
 DOMAIN-SUFFIX,cpatrk.net
-DOMAIN-SUFFIX,snssdk.com
+#DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-KEYWORD,pglstatp
 DOMAIN-SUFFIX,easytomessage.com
