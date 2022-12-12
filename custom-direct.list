@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,feishucdn.com
 
 # toutiao
 DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiaostatic.com
 
 # nio
 DOMAIN-SUFFIX,nio.com
