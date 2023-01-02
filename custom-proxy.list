@@ -8,3 +8,7 @@ DOMAIN-SUFFIX,forum.javcdn.pw
 
 ## linkedin
 DOMAIN-KEYWORD,linkedin
+
+## pikpak
+DOMAIN-SUFFIX,user.mypikpak.com
+DOMAIN-SUFFIX,api-drive.mypikpak.com
