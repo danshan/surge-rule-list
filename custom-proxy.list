@@ -8,5 +8,13 @@ DOMAIN-SUFFIX,forum.javcdn.pw
 ## linkedin
 DOMAIN-KEYWORD,linkedin
 
+<<<<<<< HEAD
 ## clickhouse
 IP-CIDR,164.52.102.0/24,Proxy
+=======
+## pikpak
+DOMAIN-SUFFIX,user.mypikpak.com
+DOMAIN-SUFFIX,api-drive.mypikpak.com
+DOMAIN-SUFFIX,access.mypikpak.com
+DOMAIN-SUFFIX,hubciddata.mypikpak.com
+>>>>>>> e65bbab87a22fec453621e6715281ea17b9daf40
