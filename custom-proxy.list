@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,forum.javcdn.pw
 DOMAIN-KEYWORD,linkedin
 
 ## clickhouse
-IP-CIDR,164.52.102.0/24,Proxy
+IP-CIDR,164.52.102.0/24,no-resolve
 
 ## pikpak
 DOMAIN-SUFFIX,user.mypikpak.com
