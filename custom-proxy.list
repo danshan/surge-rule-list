@@ -1,7 +1,8 @@
+# -------- custom-proxy start ---------
+
 ## Oculus Quest 2
 SRC-IP,192.168.2.114
 
-# sites
 ## javbus
 DOMAIN-SUFFIX,forum.javcdn.pw
 
@@ -12,8 +13,9 @@ DOMAIN-KEYWORD,linkedin
 IP-CIDR,164.52.102.0/24,no-resolve
 
 ## pikpak
-DOMAIN-SUFFIX,user.mypikpak.com
-DOMAIN-SUFFIX,api-drive.mypikpak.com
+### DOMAIN-SUFFIX,user.mypikpak.com
+### DOMAIN-SUFFIX,api-drive.mypikpak.com
 DOMAIN-SUFFIX,access.mypikpak.com
-DOMAIN-SUFFIX,hubciddata.mypikpak.com
+### DOMAIN-SUFFIX,hubciddata.mypikpak.com
 
+# -------- custom-proxy end ---------

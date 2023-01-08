@@ -1,3 +1,5 @@
+# -------- custom-reject start ---------
+
 DOMAIN,pos.baidu.com
 DOMAIN,cpro.baidustatic.com
 DOMAIN-SUFFIX,jpush.cn
@@ -12,3 +14,9 @@ DOMAIN-SUFFIX,easytomessage.com
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,juicyads.com
+DOMAIN-SUFFIX,jads.co
+DOMAIN-SUFFIX,realsrv.com
+DOMAIN-SUFFIX,realsrv.com
+
+# -------- custom-reject end ---------
