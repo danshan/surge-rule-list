@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,feishu.com
 DOMAIN-SUFFIX,feishucdn.com
 
 ## toutiao
+DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiaostatic.com
 
 ## nio
