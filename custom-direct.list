@@ -6,7 +6,6 @@ DOMAIN-SUFFIX,feishu.com
 DOMAIN-SUFFIX,feishucdn.com
 
 ## toutiao
-DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiaostatic.com
 
 ## nio
@@ -14,8 +13,5 @@ DOMAIN-SUFFIX,nio.com
 
 ## pikpak
 DOMAIN-SUFFIX,mypikpak.com
-
-## aliyun
-DOMAIN-SUFFIX,oss-cn-shanghai.aliyuncs.com
 
 # -------- custom-direct end ---------
