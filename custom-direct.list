@@ -8,12 +8,19 @@ DOMAIN-SUFFIX,feishucdn.com
 ## toutiao
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiaostatic.com
-DOMAIN-SUFFIX,toutiaoimage.com
+DOMAIN-SUFFIX,toutiaoimg.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,ibyteapm.com
 
 ## nio
 DOMAIN-SUFFIX,nio.com
 
 ## pikpak
 DOMAIN-SUFFIX,mypikpak.com
+
+## aliyun
+DOMAIN-SUFFIX,oss-cn-shanghai.aliyuncs.com
 
 # -------- custom-direct end ---------
