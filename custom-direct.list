@@ -8,11 +8,6 @@ DOMAIN-SUFFIX,feishucdn.com
 ## toutiao
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiaostatic.com
-DOMAIN-SUFFIX,toutiaoimg.com
-DOMAIN-SUFFIX,byteimg.com
-DOMAIN-SUFFIX,zijieapi.com
-DOMAIN-SUFFIX,byteimg.com
-DOMAIN-SUFFIX,ibyteapm.com
 
 ## nio
 DOMAIN-SUFFIX,nio.com
