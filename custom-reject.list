@@ -7,18 +7,9 @@ DOMAIN-SUFFIX,jpush.io
 DOMAIN-SUFFIX,sdk.e.qq.com
 DOMAIN-SUFFIX,qzs.qq.com
 DOMAIN-SUFFIX,cpatrk.net
-#DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-KEYWORD,pglstatp
 DOMAIN-SUFFIX,easytomessage.com
-DOMAIN-SUFFIX,gdt.qq.com
-DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,amazon-adsystem.com
-DOMAIN-SUFFIX,juicyads.com
-DOMAIN-SUFFIX,jads.co
-DOMAIN-SUFFIX,realsrv.com
-DOMAIN-SUFFIX,realsrv.com
-DOMAIN-SUFFIX,rou3.xyz
-DOMAIN-SUFFIX,lkpmprksau.com
 
 # -------- custom-reject end ---------
