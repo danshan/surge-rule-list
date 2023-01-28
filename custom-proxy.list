@@ -14,5 +14,6 @@ IP-CIDR,164.52.102.0/24,no-resolve
 
 ## pikpak
 DOMAIN-SUFFIX,access.mypikpak.com
+DOMAIN-SUFFIX,api-drive.mypikpak.com
 
 # -------- custom-proxy end ---------
