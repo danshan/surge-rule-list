@@ -1,0 +1,5 @@
+#!name=AdGuardHome
+#!desc=Set AdGuardHome as DNS server.
+
+[General]
+dns-server = 192.168.2.11, system
