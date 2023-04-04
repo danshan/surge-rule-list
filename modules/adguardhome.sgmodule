@@ -3,3 +3,7 @@
 
 [General]
 dns-server = 192.168.2.11, system
+
+[Rule]
+# Surge Ponte
+IP-CIDR,192.168.2.0/24,DEVICE:mini
