@@ -1,0 +1,7 @@
+#!name=Ponte
+#!desc=Support surge ponte rules
+
+[Rule]
+# Surge ponte
+DOMAIN-SUFFIX,home.com,DEVICE:mini
+DOMAIN-SUFFIX,home.com,DEVICE:mini
