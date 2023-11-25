@@ -15,4 +15,7 @@ DOMAIN-SUFFIX,nio.com
 ## pikpak
 DOMAIN-SUFFIX,mypikpak.com
 
+## nas
+DOMAIN-SUFFIX,synology.me
+
 # -------- custom-direct end ---------
