@@ -22,6 +22,10 @@ DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,qeuhco.xyz
 
 ## onedrive
+## https://learn.microsoft.com/zh-cn/sharepoint/required-urls-and-ports
 DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,files.1drv.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,storage.live.com
 
 # -------- custom-direct end ---------
