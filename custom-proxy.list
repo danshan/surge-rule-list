@@ -24,4 +24,7 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 ## Recaptcha
 DOMAIN-SUFFIX,recaptcha.net
+
+## apkpure
+DOMAIN-SUFFIX,pureapk.com
 # -------- custom-proxy end ---------
